@@ -8,7 +8,7 @@ This distributable comes in two forms within each separate directory: a python s
 
 ## UI
 
-![ToolPictureLinux](https://github.com/TestingAccount2000/Simple-Network-Port-GUI-Linux/assets/98635532/3241c58f-1d59-414a-aa59-d72c8bd7c96c)
+![ToolPictureLinux](https://github.com/TestingAccount2000/Simple-Network-Port-GUI-Linux-Public/blob/main/ReadMeImages/LinuxTool.png)
 
 
 ## Commonly Asked Questions
